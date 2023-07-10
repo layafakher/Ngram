@@ -1,0 +1,15 @@
+ <s> Health is a state of physical, mental and social well being. </s> 
+ <s> It is not merely the absence of disease or infirmity. </s> 
+ <s> Health can be influenced by many factors, such as genetics, environment, lifestyle and behavior. </s> 
+ <s> Some ways to improve health are eating a balanced diet, exercising regularly, avoiding tobacco and alcohol, managing stress and getting enough sleep. </s> 
+ <s> Health can also be measured by various indicators, such as life expectancy, mortality, morbidity and disability. </s> 
+ <s> Healthcare is the provision of services to prevent, diagnose and treat health problems. </s> 
+ <s> It can be delivered by different professionals, such as doctors, nurses, pharmacists and therapists. </s> 
+ <s> Healthcare can be public or private, depending on the funding and organization of the system.</s> 
+ <s> Healthcare can also face many challenges, such as access, quality, cost and equity. </s> 
+ <s> Health is a human right and a global responsibility. </s>
+
+
+
+
+
