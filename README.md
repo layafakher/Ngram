@@ -1,9 +1,9 @@
 # Ngram
 
-Calculatingthe number of unigrams and bigrams of this figure and show it in a table. <br />
+Calculatingthe number of unigrams and bigrams and showing them in a table. <br />
 
-Create a random string of words of this corpus, whose length is less than 5 words, <br />
-and then calculate the probability of occurrence of this string of words assuming the current mini corpus and Bigram approximation. <br />
+Creating a random string of words of this corpus, whose length is less than 5 words, <br />
+and then calculating the probability of occurrence of these words assuming the current mini corpus and Bigram probabilities. <br />
 
 
 ![image](https://github.com/layafakher/Ngram/assets/62253882/acb646bf-e9a3-4a40-a7a1-e677dd0cb8d8)
