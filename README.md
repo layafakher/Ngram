@@ -1,6 +1,6 @@
 # Ngram
 
-Calculatingthe number of unigrams and bigrams and showing them in a table. <br />
+Calculatingthe number of unigrams and bigrams of the given corpus and showing them in a table. <br />
 
 Creating a random string of words of this corpus, whose length is less than 5 words, <br />
 and then calculating the probability of occurrence of these words assuming the current mini corpus and Bigram probabilities. <br />
